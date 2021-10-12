@@ -1,0 +1,16 @@
+org/jboss/as/quickstarts/tasksJsf/CurrentTask.class
+org/jboss/as/quickstarts/tasksJsf/User.class
+org/jboss/as/quickstarts/tasksJsf/TaskDao.class
+org/jboss/as/quickstarts/tasksJsf/TaskController.class
+org/jboss/as/quickstarts/tasksJsf/CurrentTaskStore.class
+org/jboss/as/quickstarts/tasksJsf/AuthController.class
+org/jboss/as/quickstarts/tasksJsf/Resources.class
+org/jboss/as/quickstarts/tasksJsf/TaskDaoImpl.class
+org/jboss/as/quickstarts/tasksJsf/TaskList.class
+org/jboss/as/quickstarts/tasksJsf/Authentication.class
+org/jboss/as/quickstarts/tasksJsf/FacesConfiguration.class
+org/jboss/as/quickstarts/tasksJsf/UserDaoImpl.class
+org/jboss/as/quickstarts/tasksJsf/TaskListBean.class
+org/jboss/as/quickstarts/tasksJsf/UserDao.class
+org/jboss/as/quickstarts/tasksJsf/CurrentUser.class
+org/jboss/as/quickstarts/tasksJsf/Task.class

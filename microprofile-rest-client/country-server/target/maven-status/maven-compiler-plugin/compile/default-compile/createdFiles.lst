@@ -1,0 +1,4 @@
+org/wildfly/quickstarts/microprofile/RootResource.class
+org/wildfly/quickstarts/microprofile/CountryProviderResource.class
+org/wildfly/quickstarts/microprofile/Country.class
+org/wildfly/quickstarts/microprofile/JaxRsApplication.class

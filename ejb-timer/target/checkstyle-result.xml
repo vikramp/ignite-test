@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.5">
+<file name="/Users/vip/IdeaProjects/quickstart8/ejb-timer/src/main/java/org/jboss/as/quickstarts/ejbTimer/ScheduleExample.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/ejb-timer/src/main/java/org/jboss/as/quickstarts/ejbTimer/TimeoutExample.java">
+</file>
+</checkstyle>

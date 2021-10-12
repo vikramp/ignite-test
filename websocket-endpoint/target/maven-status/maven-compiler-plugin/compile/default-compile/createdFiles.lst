@@ -1,0 +1,11 @@
+org/jboss/quickstarts/websocket/BiddingEncoder.class
+org/jboss/quickstarts/websocket/BidWebSocketEndpoint$1.class
+org/jboss/quickstarts/websocket/BidWebSocketEndpoint.class
+org/jboss/quickstarts/websocket/MessageDecoder.class
+org/jboss/quickstarts/websocket/Message.class
+org/jboss/quickstarts/websocket/model/Bidding.class
+org/jboss/quickstarts/websocket/model/Item.class
+org/jboss/quickstarts/websocket/model/Bidding$1.class
+org/jboss/quickstarts/websocket/model/BiddingFactory.class
+org/jboss/quickstarts/websocket/model/BidStatus.class
+org/jboss/quickstarts/websocket/model/Bid.class

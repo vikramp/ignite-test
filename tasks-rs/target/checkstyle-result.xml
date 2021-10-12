@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.5">
+<file name="/Users/vip/IdeaProjects/quickstart8/tasks-rs/src/main/java/org/jboss/as/quickstarts/tasksrs/model/UserDao.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/tasks-rs/src/main/java/org/jboss/as/quickstarts/tasksrs/model/TaskDaoImpl.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/tasks-rs/src/main/java/org/jboss/as/quickstarts/tasksrs/model/User.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/tasks-rs/src/main/java/org/jboss/as/quickstarts/tasksrs/model/Resources.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/tasks-rs/src/main/java/org/jboss/as/quickstarts/tasksrs/model/TaskDao.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/tasks-rs/src/main/java/org/jboss/as/quickstarts/tasksrs/model/Task.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/tasks-rs/src/main/java/org/jboss/as/quickstarts/tasksrs/model/UserDaoImpl.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/tasks-rs/src/main/java/org/jboss/as/quickstarts/tasksrs/service/TaskResource.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/tasks-rs/src/test/java/org/jboss/as/quickstarts/tasksrs/TaskDaoIT.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/tasks-rs/src/test/java/org/jboss/as/quickstarts/tasksrs/UserDaoIT.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/tasks-rs/src/test/java/org/jboss/as/quickstarts/tasksrs/DefaultDeployment.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/tasks-rs/src/main/resources/META-INF/persistence.xml">
+</file>
+</checkstyle>

@@ -1,0 +1,8 @@
+org/jboss/as/quickstarts/mbeanhelloworld/util/CDIExtension.class
+org/jboss/as/quickstarts/mbeanhelloworld/mbean/MXPojoHelloWorld.class
+org/jboss/as/quickstarts/mbeanhelloworld/mbean/MXComponentHelloWorld.class
+org/jboss/as/quickstarts/mbeanhelloworld/mbean/IHelloWorldMXBean.class
+org/jboss/as/quickstarts/mbeanhelloworld/mbean/IAnnotatedHelloWorldMBean.class
+org/jboss/as/quickstarts/mbeanhelloworld/mbean/AnnotatedComponentHelloWorld.class
+org/jboss/as/quickstarts/mbeanhelloworld/service/HelloService.class
+org/jboss/as/quickstarts/mbeanhelloworld/mbean/AbstractComponentMBean.class

@@ -1,0 +1,9 @@
+/Users/vip/IdeaProjects/quickstart8/websocket-endpoint/src/main/java/org/jboss/quickstarts/websocket/model/Bidding.java
+/Users/vip/IdeaProjects/quickstart8/websocket-endpoint/src/main/java/org/jboss/quickstarts/websocket/BiddingEncoder.java
+/Users/vip/IdeaProjects/quickstart8/websocket-endpoint/src/main/java/org/jboss/quickstarts/websocket/MessageDecoder.java
+/Users/vip/IdeaProjects/quickstart8/websocket-endpoint/src/main/java/org/jboss/quickstarts/websocket/BidWebSocketEndpoint.java
+/Users/vip/IdeaProjects/quickstart8/websocket-endpoint/src/main/java/org/jboss/quickstarts/websocket/model/Bid.java
+/Users/vip/IdeaProjects/quickstart8/websocket-endpoint/src/main/java/org/jboss/quickstarts/websocket/model/BiddingFactory.java
+/Users/vip/IdeaProjects/quickstart8/websocket-endpoint/src/main/java/org/jboss/quickstarts/websocket/model/Item.java
+/Users/vip/IdeaProjects/quickstart8/websocket-endpoint/src/main/java/org/jboss/quickstarts/websocket/Message.java
+/Users/vip/IdeaProjects/quickstart8/websocket-endpoint/src/main/java/org/jboss/quickstarts/websocket/model/BidStatus.java

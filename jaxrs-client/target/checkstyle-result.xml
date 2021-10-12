@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.5">
+<file name="/Users/vip/IdeaProjects/quickstart8/jaxrs-client/src/main/java/org/jboss/as/quickstarts/jaxrsclient/model/Contact.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/jaxrs-client/src/main/java/org/jboss/as/quickstarts/jaxrsclient/rest/JaxRsActivator.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/jaxrs-client/src/main/java/org/jboss/as/quickstarts/jaxrsclient/rest/ContactResourceRESTService.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/jaxrs-client/src/test/java/org/jboss/as/quickstarts/jaxrsclient/test/ContactsRestClient.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/jaxrs-client/src/test/java/org/jboss/as/quickstarts/jaxrsclient/test/SavedByClientRequestFilter.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/jaxrs-client/src/test/java/org/jboss/as/quickstarts/jaxrsclient/test/ContactsRestClientIT.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/jaxrs-client/src/test/java/org/jboss/as/quickstarts/jaxrsclient/test/LogResponseFilter.java">
+</file>
+</checkstyle>

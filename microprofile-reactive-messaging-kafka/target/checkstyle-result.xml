@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.5">
+<file name="/Users/vip/IdeaProjects/quickstart8/microprofile-reactive-messaging-kafka/src/main/java/org/wildfly/quickstarts/microprofile/reactive/messaging/JaxRsApplication.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/microprofile-reactive-messaging-kafka/src/main/java/org/wildfly/quickstarts/microprofile/reactive/messaging/DatabaseBean.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/microprofile-reactive-messaging-kafka/src/main/java/org/wildfly/quickstarts/microprofile/reactive/messaging/TimedEntry.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/microprofile-reactive-messaging-kafka/src/main/java/org/wildfly/quickstarts/microprofile/reactive/messaging/TimedEntryDeserializer.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/microprofile-reactive-messaging-kafka/src/main/java/org/wildfly/quickstarts/microprofile/reactive/messaging/MessagingBean.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/microprofile-reactive-messaging-kafka/src/main/java/org/wildfly/quickstarts/microprofile/reactive/messaging/TimedEntrySerializer.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/microprofile-reactive-messaging-kafka/src/main/java/org/wildfly/quickstarts/microprofile/reactive/messaging/MockExternalAsyncResource.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/microprofile-reactive-messaging-kafka/src/main/java/org/wildfly/quickstarts/microprofile/reactive/messaging/RootResource.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/microprofile-reactive-messaging-kafka/src/test/java/org/wildfly/quickstarts/microprofile/reactive/messaging/test/ReactiveMessagingKafkaIT.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/microprofile-reactive-messaging-kafka/src/test/java/org/wildfly/quickstarts/microprofile/reactive/messaging/test/RunKafkaSetupTask.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/microprofile-reactive-messaging-kafka/src/test/java/org/wildfly/quickstarts/microprofile/reactive/messaging/test/EnableReactiveExtensionsSetupTask.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/microprofile-reactive-messaging-kafka/src/main/resources/META-INF/persistence.xml">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/microprofile-reactive-messaging-kafka/src/main/resources/META-INF/microprofile-config.properties">
+</file>
+</checkstyle>

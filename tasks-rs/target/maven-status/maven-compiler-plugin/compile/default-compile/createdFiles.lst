@@ -1,0 +1,8 @@
+org/jboss/as/quickstarts/tasksrs/service/TaskResource.class
+org/jboss/as/quickstarts/tasksrs/model/TaskDao.class
+org/jboss/as/quickstarts/tasksrs/model/UserDao.class
+org/jboss/as/quickstarts/tasksrs/model/Task.class
+org/jboss/as/quickstarts/tasksrs/model/UserDaoImpl.class
+org/jboss/as/quickstarts/tasksrs/model/User.class
+org/jboss/as/quickstarts/tasksrs/model/Resources.class
+org/jboss/as/quickstarts/tasksrs/model/TaskDaoImpl.class

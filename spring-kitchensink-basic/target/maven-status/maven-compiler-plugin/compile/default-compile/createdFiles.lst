@@ -1,0 +1,5 @@
+org/jboss/as/quickstarts/kitchensink/spring/basic/controller/MemberController.class
+org/jboss/as/quickstarts/kitchensink/spring/basic/data/MemberDao.class
+org/jboss/as/quickstarts/kitchensink/spring/basic/model/Member.class
+org/jboss/as/quickstarts/kitchensink/spring/basic/data/MemberDaoImpl.class
+org/jboss/as/quickstarts/kitchensink/spring/basic/controller/MemberRestController.class

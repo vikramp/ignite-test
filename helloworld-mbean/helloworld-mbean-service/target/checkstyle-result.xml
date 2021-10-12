@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.5">
+<file name="/Users/vip/IdeaProjects/quickstart8/helloworld-mbean/helloworld-mbean-service/src/main/java/org/jboss/as/quickstarts/mbeanhelloworld/mbean/MXPojoHelloWorld.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/helloworld-mbean/helloworld-mbean-service/src/main/java/org/jboss/as/quickstarts/mbeanhelloworld/mbean/IHelloWorldMXBean.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/helloworld-mbean/helloworld-mbean-service/src/test/java/org/jboss/as/quickstarts/mbeanhelloworld/mbean/JMXPojoHelloWorldIT.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/helloworld-mbean/helloworld-mbean-service/src/main/resources/META-INF/beans.xml">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/helloworld-mbean/helloworld-mbean-service/src/main/resources/META-INF/jboss-service.xml">
+</file>
+</checkstyle>

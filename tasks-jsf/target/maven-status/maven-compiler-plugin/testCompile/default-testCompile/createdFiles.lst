@@ -1,0 +1,8 @@
+org/jboss/as/quickstarts/tasksJsf/FacesContextStub.class
+org/jboss/as/quickstarts/tasksJsf/TaskDaoStub.class
+org/jboss/as/quickstarts/tasksJsf/TaskDaoIT.class
+org/jboss/as/quickstarts/tasksJsf/Testing.class
+org/jboss/as/quickstarts/tasksJsf/UserDaoIT.class
+org/jboss/as/quickstarts/tasksJsf/DefaultDeployment.class
+org/jboss/as/quickstarts/tasksJsf/ResourcesIT.class
+org/jboss/as/quickstarts/tasksJsf/TaskListBeanIT.class

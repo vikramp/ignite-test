@@ -1,0 +1,8 @@
+/Users/vip/IdeaProjects/quickstart8/helloworld-mbean/helloworld-mbean-webapp/src/main/java/org/jboss/as/quickstarts/mbeanhelloworld/mbean/AbstractComponentMBean.java
+/Users/vip/IdeaProjects/quickstart8/helloworld-mbean/helloworld-mbean-webapp/src/main/java/org/jboss/as/quickstarts/mbeanhelloworld/mbean/MXComponentHelloWorld.java
+/Users/vip/IdeaProjects/quickstart8/helloworld-mbean/helloworld-mbean-webapp/src/main/java/org/jboss/as/quickstarts/mbeanhelloworld/mbean/IHelloWorldMXBean.java
+/Users/vip/IdeaProjects/quickstart8/helloworld-mbean/helloworld-mbean-webapp/src/main/java/org/jboss/as/quickstarts/mbeanhelloworld/service/HelloService.java
+/Users/vip/IdeaProjects/quickstart8/helloworld-mbean/helloworld-mbean-webapp/src/main/java/org/jboss/as/quickstarts/mbeanhelloworld/util/CDIExtension.java
+/Users/vip/IdeaProjects/quickstart8/helloworld-mbean/helloworld-mbean-webapp/src/main/java/org/jboss/as/quickstarts/mbeanhelloworld/mbean/MXPojoHelloWorld.java
+/Users/vip/IdeaProjects/quickstart8/helloworld-mbean/helloworld-mbean-webapp/src/main/java/org/jboss/as/quickstarts/mbeanhelloworld/mbean/IAnnotatedHelloWorldMBean.java
+/Users/vip/IdeaProjects/quickstart8/helloworld-mbean/helloworld-mbean-webapp/src/main/java/org/jboss/as/quickstarts/mbeanhelloworld/mbean/AnnotatedComponentHelloWorld.java

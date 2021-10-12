@@ -1,0 +1,7 @@
+org/jboss/as/quickstarts/managedexecutorservice/concurrency/DeleteTask.class
+org/jboss/as/quickstarts/managedexecutorservice/rest/JaxRsActivator.class
+org/jboss/as/quickstarts/managedexecutorservice/rest/ProductResourceRESTService.class
+org/jboss/as/quickstarts/managedexecutorservice/concurrency/PersitTask.class
+org/jboss/as/quickstarts/managedexecutorservice/util/Resources.class
+org/jboss/as/quickstarts/managedexecutorservice/concurrency/LongRunningTask.class
+org/jboss/as/quickstarts/managedexecutorservice/model/Product.class

@@ -1,0 +1,8 @@
+org/jboss/quickstarts/ws/jaxws/samples/retail/profile/ProfileMgmt.class
+org/jboss/quickstarts/ws/jaxws/samples/retail/profile/DiscountResponse.class
+org/jboss/quickstarts/ws/jaxws/samples/retail/profile/ProfileMgmtService.class
+org/jboss/quickstarts/ws/jaxws/samples/retail/profile/DiscountRequest.class
+org/jboss/quickstarts/ws/jaxws/samples/retail/profile/Customer.class
+org/jboss/quickstarts/ws/jaxws/samples/retail/profile/package-info.class
+org/jboss/quickstarts/ws/jaxws/samples/retail/profile/ProfileMgmtBean.class
+org/jboss/quickstarts/ws/jaxws/samples/retail/profile/ObjectFactory.class

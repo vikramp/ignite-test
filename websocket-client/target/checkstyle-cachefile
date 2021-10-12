@@ -1,0 +1,11 @@
+#Fri Oct 08 09:54:40 CEST 2021
+/Users/vip/IdeaProjects/quickstart8/websocket-client/src/main/java/org/jboss/as/quickstarts/websocket/client/ConnectionGate.java=1633679084000
+/Users/vip/IdeaProjects/quickstart8/websocket-client/src/main/java/org/jboss/as/quickstarts/websocket/client/SessionManager.java=1633679084000
+/Users/vip/IdeaProjects/quickstart8/websocket-client/src/main/java/org/jboss/as/quickstarts/websocket/client/SessionMessage.java=1633679084000
+/Users/vip/IdeaProjects/quickstart8/websocket-client/src/main/java/org/jboss/as/quickstarts/websocket/client/ToBackend.java=1633679084000
+module-resource*?\:/wildfly-checkstyle/suppressions.xml=DD3FD5987C62C3034A4613F83C42B24683BCFC2E
+/Users/vip/IdeaProjects/quickstart8/websocket-client/src/main/java/org/jboss/as/quickstarts/websocket/client/ToBroadcast.java=1633679084000
+/Users/vip/IdeaProjects/quickstart8/websocket-client/src/main/java/org/jboss/as/quickstarts/websocket/client/Backend.java=1633679084000
+/Users/vip/IdeaProjects/quickstart8/websocket-client/src/main/java/org/jboss/as/quickstarts/websocket/client/ToFrontend.java=1633679084000
+configuration*?=EDB5FCA988F6FB3096DAE4880873485AB4250E3C
+/Users/vip/IdeaProjects/quickstart8/websocket-client/src/main/java/org/jboss/as/quickstarts/websocket/client/Frontend.java=1633679084000

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.5">
+<file name="/Users/vip/IdeaProjects/quickstart8/microprofile-rest-client/country-client/src/main/java/org/wildfly/quickstarts/microprofile/rest/client/JaxRsApplication.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/microprofile-rest-client/country-client/src/main/java/org/wildfly/quickstarts/microprofile/rest/client/CountriesResource.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/microprofile-rest-client/country-client/src/main/java/org/wildfly/quickstarts/microprofile/rest/client/CountriesServiceClient.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/microprofile-rest-client/country-client/src/main/java/org/wildfly/quickstarts/microprofile/rest/client/model/Country.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/microprofile-rest-client/country-client/src/main/java/org/wildfly/quickstarts/microprofile/rest/client/RootResource.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/microprofile-rest-client/country-client/src/main/java/org/wildfly/quickstarts/microprofile/rest/client/NotFoundResponseExceptionMapper.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/microprofile-rest-client/country-client/src/test/java/org/wildfly/quickstarts/microprofile/rest/client/api/CountryProviderResource.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/microprofile-rest-client/country-client/src/test/java/org/wildfly/quickstarts/microprofile/rest/client/MicroProfileRESTClientIT.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/microprofile-rest-client/country-client/src/main/resources/META-INF/microprofile-config.properties">
+</file>
+</checkstyle>

@@ -1,0 +1,4 @@
+org/wildfly/quickstarts/microprofile/reactive/messaging/test/EnableReactiveExtensionsSetupTask.class
+org/wildfly/quickstarts/microprofile/reactive/messaging/test/RunKafkaSetupTask$1.class
+org/wildfly/quickstarts/microprofile/reactive/messaging/test/ReactiveMessagingKafkaIT.class
+org/wildfly/quickstarts/microprofile/reactive/messaging/test/RunKafkaSetupTask.class

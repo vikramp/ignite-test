@@ -1,0 +1,8 @@
+/Users/vip/IdeaProjects/quickstart8/microprofile-reactive-messaging-kafka/src/main/java/org/wildfly/quickstarts/microprofile/reactive/messaging/RootResource.java
+/Users/vip/IdeaProjects/quickstart8/microprofile-reactive-messaging-kafka/src/main/java/org/wildfly/quickstarts/microprofile/reactive/messaging/TimedEntryDeserializer.java
+/Users/vip/IdeaProjects/quickstart8/microprofile-reactive-messaging-kafka/src/main/java/org/wildfly/quickstarts/microprofile/reactive/messaging/TimedEntrySerializer.java
+/Users/vip/IdeaProjects/quickstart8/microprofile-reactive-messaging-kafka/src/main/java/org/wildfly/quickstarts/microprofile/reactive/messaging/JaxRsApplication.java
+/Users/vip/IdeaProjects/quickstart8/microprofile-reactive-messaging-kafka/src/main/java/org/wildfly/quickstarts/microprofile/reactive/messaging/DatabaseBean.java
+/Users/vip/IdeaProjects/quickstart8/microprofile-reactive-messaging-kafka/src/main/java/org/wildfly/quickstarts/microprofile/reactive/messaging/TimedEntry.java
+/Users/vip/IdeaProjects/quickstart8/microprofile-reactive-messaging-kafka/src/main/java/org/wildfly/quickstarts/microprofile/reactive/messaging/MockExternalAsyncResource.java
+/Users/vip/IdeaProjects/quickstart8/microprofile-reactive-messaging-kafka/src/main/java/org/wildfly/quickstarts/microprofile/reactive/messaging/MessagingBean.java

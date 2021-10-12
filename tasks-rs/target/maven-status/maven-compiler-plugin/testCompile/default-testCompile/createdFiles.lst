@@ -1,0 +1,3 @@
+org/jboss/as/quickstarts/tasksrs/UserDaoIT.class
+org/jboss/as/quickstarts/tasksrs/DefaultDeployment.class
+org/jboss/as/quickstarts/tasksrs/TaskDaoIT.class

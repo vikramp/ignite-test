@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.5">
+<file name="/Users/vip/IdeaProjects/quickstart8/microprofile-opentracing/src/main/java/org/wildfly/quickstarts/microprofile/opentracing/TracedResource.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/microprofile-opentracing/src/main/java/org/wildfly/quickstarts/microprofile/opentracing/JaxRsApplication.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/microprofile-opentracing/src/main/java/org/wildfly/quickstarts/microprofile/opentracing/ExplicitlyTracedBean.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/microprofile-opentracing/src/main/java/org/wildfly/quickstarts/microprofile/opentracing/RootResource.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/microprofile-opentracing/src/test/java/org/wildfly/quickstarts/microprofile/opentracing/MicroProfileOpenTracingIT.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/microprofile-opentracing/src/test/java/org/wildfly/quickstarts/microprofile/opentracing/MockTracerFactory.java">
+</file>
+</checkstyle>

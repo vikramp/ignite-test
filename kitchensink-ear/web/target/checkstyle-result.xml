@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.5">
+<file name="/Users/vip/IdeaProjects/quickstart8/kitchensink-ear/web/src/main/java/org/jboss/as/quickstarts/kitchensink_ear/util/WebResources.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/kitchensink-ear/web/src/main/java/org/jboss/as/quickstarts/kitchensink_ear/controller/MemberController.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/kitchensink-ear/web/src/main/java/org/jboss/as/quickstarts/kitchensink_ear/rest/JaxRsActivator.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/kitchensink-ear/web/src/main/java/org/jboss/as/quickstarts/kitchensink_ear/rest/MemberResourceRESTService.java">
+</file>
+</checkstyle>

@@ -1,0 +1,7 @@
+/Users/vip/IdeaProjects/quickstart8/managed-executor-service/src/main/java/org/jboss/as/quickstarts/managedexecutorservice/concurrency/LongRunningTask.java
+/Users/vip/IdeaProjects/quickstart8/managed-executor-service/src/main/java/org/jboss/as/quickstarts/managedexecutorservice/model/Product.java
+/Users/vip/IdeaProjects/quickstart8/managed-executor-service/src/main/java/org/jboss/as/quickstarts/managedexecutorservice/concurrency/PersitTask.java
+/Users/vip/IdeaProjects/quickstart8/managed-executor-service/src/main/java/org/jboss/as/quickstarts/managedexecutorservice/rest/JaxRsActivator.java
+/Users/vip/IdeaProjects/quickstart8/managed-executor-service/src/main/java/org/jboss/as/quickstarts/managedexecutorservice/util/Resources.java
+/Users/vip/IdeaProjects/quickstart8/managed-executor-service/src/main/java/org/jboss/as/quickstarts/managedexecutorservice/rest/ProductResourceRESTService.java
+/Users/vip/IdeaProjects/quickstart8/managed-executor-service/src/main/java/org/jboss/as/quickstarts/managedexecutorservice/concurrency/DeleteTask.java

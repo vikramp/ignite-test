@@ -1,0 +1,4 @@
+org/jboss/as/quickstarts/bean_validation_custom_constraint/AddressValidator.class
+org/jboss/as/quickstarts/bean_validation_custom_constraint/Address.class
+org/jboss/as/quickstarts/bean_validation_custom_constraint/Person.class
+org/jboss/as/quickstarts/bean_validation_custom_constraint/PersonAddress.class

@@ -1,0 +1,4 @@
+org/wildfly/quickstarts/microprofile/opentracing/JaxRsApplication.class
+org/wildfly/quickstarts/microprofile/opentracing/RootResource.class
+org/wildfly/quickstarts/microprofile/opentracing/TracedResource.class
+org/wildfly/quickstarts/microprofile/opentracing/ExplicitlyTracedBean.class

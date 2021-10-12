@@ -1,0 +1,7 @@
+/Users/vip/IdeaProjects/quickstart8/ejb-txn-remote-call/server/src/main/java/org/jboss/as/quickstarts/ejb/server/StatelessBean.java
+/Users/vip/IdeaProjects/quickstart8/ejb-txn-remote-call/server/src/main/java/org/jboss/as/quickstarts/ejb/server/StatefulBean.java
+/Users/vip/IdeaProjects/quickstart8/ejb-txn-remote-call/server/src/main/java/org/jboss/as/quickstarts/ejb/mock/MockXAResource.java
+/Users/vip/IdeaProjects/quickstart8/ejb-txn-remote-call/server/src/main/java/org/jboss/as/quickstarts/ejb/server/RestEndpoints.java
+/Users/vip/IdeaProjects/quickstart8/ejb-txn-remote-call/server/src/main/java/org/jboss/as/quickstarts/ejb/server/RemoteBeanInterface.java
+/Users/vip/IdeaProjects/quickstart8/ejb-txn-remote-call/server/src/main/java/org/jboss/as/quickstarts/ejb/entity/CalleeUser.java
+/Users/vip/IdeaProjects/quickstart8/ejb-txn-remote-call/server/src/main/java/org/jboss/as/quickstarts/ejb/server/InfoUtils.java

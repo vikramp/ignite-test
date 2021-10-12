@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.5">
+<file name="/Users/vip/IdeaProjects/quickstart8/ejb-txn-remote-call/server/src/main/java/org/jboss/as/quickstarts/ejb/entity/CalleeUser.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/ejb-txn-remote-call/server/src/main/java/org/jboss/as/quickstarts/ejb/mock/MockXAResource.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/ejb-txn-remote-call/server/src/main/java/org/jboss/as/quickstarts/ejb/server/RestEndpoints.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/ejb-txn-remote-call/server/src/main/java/org/jboss/as/quickstarts/ejb/server/InfoUtils.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/ejb-txn-remote-call/server/src/main/java/org/jboss/as/quickstarts/ejb/server/StatefulBean.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/ejb-txn-remote-call/server/src/main/java/org/jboss/as/quickstarts/ejb/server/RemoteBeanInterface.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/ejb-txn-remote-call/server/src/main/java/org/jboss/as/quickstarts/ejb/server/StatelessBean.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/ejb-txn-remote-call/server/src/main/resources/META-INF/persistence.xml">
+</file>
+</checkstyle>

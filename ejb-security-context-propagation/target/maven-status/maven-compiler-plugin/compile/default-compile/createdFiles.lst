@@ -1,0 +1,5 @@
+org/jboss/as/quickstarts/ejb_security_context_propagation/IntermediateEJB.class
+org/jboss/as/quickstarts/ejb_security_context_propagation/SecuredEJB.class
+org/jboss/as/quickstarts/ejb_security_context_propagation/SecuredEJBRemote.class
+org/jboss/as/quickstarts/ejb_security_context_propagation/IntermediateEJBRemote.class
+org/jboss/as/quickstarts/ejb_security_context_propagation/RemoteClient.class

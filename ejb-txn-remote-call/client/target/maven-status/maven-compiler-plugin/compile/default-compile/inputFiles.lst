@@ -1,0 +1,6 @@
+/Users/vip/IdeaProjects/quickstart8/ejb-txn-remote-call/client/src/main/java/org/jboss/as/quickstarts/ejb/server/RemoteBeanInterface.java
+/Users/vip/IdeaProjects/quickstart8/ejb-txn-remote-call/client/src/main/java/org/jboss/as/quickstarts/ejb/client/RestEndpoints.java
+/Users/vip/IdeaProjects/quickstart8/ejb-txn-remote-call/client/src/main/java/org/jboss/as/quickstarts/ejb/client/RemoteBeanCaller.java
+/Users/vip/IdeaProjects/quickstart8/ejb-txn-remote-call/client/src/main/java/org/jboss/as/quickstarts/ejb/client/RemoteLookupHelper.java
+/Users/vip/IdeaProjects/quickstart8/ejb-txn-remote-call/client/src/main/java/org/jboss/as/quickstarts/ejb/client/UsersManagement.java
+/Users/vip/IdeaProjects/quickstart8/ejb-txn-remote-call/client/src/main/java/org/jboss/as/quickstarts/ejb/entity/CallerUser.java

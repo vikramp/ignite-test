@@ -1,0 +1,6 @@
+/Users/vip/IdeaProjects/quickstart8/helloworld-classfiletransformer/src/main/java/hello/server/ejb/HelloBean.java
+/Users/vip/IdeaProjects/quickstart8/helloworld-classfiletransformer/src/main/java/hello/server/transformation/HelloBeanClassFileTransformer.java
+/Users/vip/IdeaProjects/quickstart8/helloworld-classfiletransformer/src/main/java/hello/client/HelloClient.java
+/Users/vip/IdeaProjects/quickstart8/helloworld-classfiletransformer/src/main/java/hello/server/transformation/HelloClassPool.java
+/Users/vip/IdeaProjects/quickstart8/helloworld-classfiletransformer/src/main/java/hello/server/ejb/Hello.java
+/Users/vip/IdeaProjects/quickstart8/helloworld-classfiletransformer/src/main/java/hello/server/transformation/HelloByteCodeManipulator.java

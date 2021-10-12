@@ -1,0 +1,6 @@
+/Users/vip/IdeaProjects/quickstart8/hibernate/src/main/java/org/jboss/as/quickstart/hibernate/model/Member.java
+/Users/vip/IdeaProjects/quickstart8/hibernate/src/main/java/org/jboss/as/quickstart/hibernate/data/MemberRepository.java
+/Users/vip/IdeaProjects/quickstart8/hibernate/src/main/java/org/jboss/as/quickstart/hibernate/data/MemberListProducer.java
+/Users/vip/IdeaProjects/quickstart8/hibernate/src/main/java/org/jboss/as/quickstart/hibernate/util/Resources.java
+/Users/vip/IdeaProjects/quickstart8/hibernate/src/main/java/org/jboss/as/quickstart/hibernate/service/MemberRegistration.java
+/Users/vip/IdeaProjects/quickstart8/hibernate/src/main/java/org/jboss/as/quickstart/hibernate/controller/MemberController.java

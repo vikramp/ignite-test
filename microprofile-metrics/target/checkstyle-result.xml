@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.5">
+<file name="/Users/vip/IdeaProjects/quickstart8/microprofile-metrics/src/main/java/org/wildfly/quickstarts/microprofile/metrics/JaxRsApplication.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/microprofile-metrics/src/main/java/org/wildfly/quickstarts/microprofile/metrics/PrimeNumberChecker.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/microprofile-metrics/src/main/java/org/wildfly/quickstarts/microprofile/metrics/RootResource.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/microprofile-metrics/src/test/java/org/wildfly/quickstarts/microprofile/metrics/MicroProfileMetricsIT.java">
+</file>
+</checkstyle>

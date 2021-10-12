@@ -1,0 +1,4 @@
+org/wildfly/quickstart/microprofile/openapi/FruitResource.class
+org/wildfly/quickstart/microprofile/openapi/Fruit.class
+org/wildfly/quickstart/microprofile/openapi/RootResource.class
+org/wildfly/quickstart/microprofile/openapi/InventoryApplication.class

@@ -1,0 +1,9 @@
+org/wildfly/quickstarts/microprofile/reactive/messaging/RootResource.class
+org/wildfly/quickstarts/microprofile/reactive/messaging/TimedEntrySerializer.class
+org/wildfly/quickstarts/microprofile/reactive/messaging/TimedEntry.class
+org/wildfly/quickstarts/microprofile/reactive/messaging/JaxRsApplication.class
+org/wildfly/quickstarts/microprofile/reactive/messaging/DatabaseBean.class
+org/wildfly/quickstarts/microprofile/reactive/messaging/MockExternalAsyncResource$NextOrRandom.class
+org/wildfly/quickstarts/microprofile/reactive/messaging/MockExternalAsyncResource.class
+org/wildfly/quickstarts/microprofile/reactive/messaging/MessagingBean.class
+org/wildfly/quickstarts/microprofile/reactive/messaging/TimedEntryDeserializer.class

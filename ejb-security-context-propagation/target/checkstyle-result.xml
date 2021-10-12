@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.5">
+<file name="/Users/vip/IdeaProjects/quickstart8/ejb-security-context-propagation/src/main/java/org/jboss/as/quickstarts/ejb_security_context_propagation/RemoteClient.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/ejb-security-context-propagation/src/main/java/org/jboss/as/quickstarts/ejb_security_context_propagation/IntermediateEJB.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/ejb-security-context-propagation/src/main/java/org/jboss/as/quickstarts/ejb_security_context_propagation/IntermediateEJBRemote.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/ejb-security-context-propagation/src/main/java/org/jboss/as/quickstarts/ejb_security_context_propagation/SecuredEJBRemote.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/ejb-security-context-propagation/src/main/java/org/jboss/as/quickstarts/ejb_security_context_propagation/SecuredEJB.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/ejb-security-context-propagation/src/main/resources/wildfly-config.xml">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/ejb-security-context-propagation/src/main/resources/META-INF/jboss-ejb-client.xml">
+</file>
+</checkstyle>

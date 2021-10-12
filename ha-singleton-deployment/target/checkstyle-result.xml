@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.5">
+<file name="/Users/vip/IdeaProjects/quickstart8/ha-singleton-deployment/src/main/java/org/jboss/as/quickstarts/ha/singleton/SingletonTimer.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/ha-singleton-deployment/src/main/resources/META-INF/singleton-deployment.xml">
+</file>
+</checkstyle>

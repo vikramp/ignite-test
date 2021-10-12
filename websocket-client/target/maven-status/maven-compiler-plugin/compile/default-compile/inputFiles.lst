@@ -1,0 +1,8 @@
+/Users/vip/IdeaProjects/quickstart8/websocket-client/src/main/java/org/jboss/as/quickstarts/websocket/client/SessionManager.java
+/Users/vip/IdeaProjects/quickstart8/websocket-client/src/main/java/org/jboss/as/quickstarts/websocket/client/Backend.java
+/Users/vip/IdeaProjects/quickstart8/websocket-client/src/main/java/org/jboss/as/quickstarts/websocket/client/SessionMessage.java
+/Users/vip/IdeaProjects/quickstart8/websocket-client/src/main/java/org/jboss/as/quickstarts/websocket/client/ToBroadcast.java
+/Users/vip/IdeaProjects/quickstart8/websocket-client/src/main/java/org/jboss/as/quickstarts/websocket/client/ConnectionGate.java
+/Users/vip/IdeaProjects/quickstart8/websocket-client/src/main/java/org/jboss/as/quickstarts/websocket/client/ToFrontend.java
+/Users/vip/IdeaProjects/quickstart8/websocket-client/src/main/java/org/jboss/as/quickstarts/websocket/client/ToBackend.java
+/Users/vip/IdeaProjects/quickstart8/websocket-client/src/main/java/org/jboss/as/quickstarts/websocket/client/Frontend.java

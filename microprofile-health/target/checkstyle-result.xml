@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.5">
+<file name="/Users/vip/IdeaProjects/quickstart8/microprofile-health/src/main/java/org/wildfly/quickstarts/microprofile/health/JaxRsApplication.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/microprofile-health/src/main/java/org/wildfly/quickstarts/microprofile/health/DataHealthCheck.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/microprofile-health/src/main/java/org/wildfly/quickstarts/microprofile/health/SimpleHealthCheck.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/microprofile-health/src/main/java/org/wildfly/quickstarts/microprofile/health/RootResource.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/microprofile-health/src/main/java/org/wildfly/quickstarts/microprofile/health/DatabaseConnectionHealthCheck.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/microprofile-health/src/test/java/org/wildfly/quickstarts/microprofile/health/MicroProfileHealthIT.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/microprofile-health/src/main/resources/META-INF/microprofile-config.properties">
+</file>
+</checkstyle>

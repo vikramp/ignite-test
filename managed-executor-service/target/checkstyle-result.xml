@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.5">
+<file name="/Users/vip/IdeaProjects/quickstart8/managed-executor-service/src/main/java/org/jboss/as/quickstarts/managedexecutorservice/util/Resources.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/managed-executor-service/src/main/java/org/jboss/as/quickstarts/managedexecutorservice/concurrency/DeleteTask.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/managed-executor-service/src/main/java/org/jboss/as/quickstarts/managedexecutorservice/concurrency/PersitTask.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/managed-executor-service/src/main/java/org/jboss/as/quickstarts/managedexecutorservice/concurrency/LongRunningTask.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/managed-executor-service/src/main/java/org/jboss/as/quickstarts/managedexecutorservice/model/Product.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/managed-executor-service/src/main/java/org/jboss/as/quickstarts/managedexecutorservice/rest/JaxRsActivator.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/managed-executor-service/src/main/java/org/jboss/as/quickstarts/managedexecutorservice/rest/ProductResourceRESTService.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/managed-executor-service/src/test/java/org/jboss/as/quickstarts/managedexecutorservice/test/ProductsRestClientIT.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/managed-executor-service/src/main/resources/META-INF/persistence.xml">
+</file>
+</checkstyle>

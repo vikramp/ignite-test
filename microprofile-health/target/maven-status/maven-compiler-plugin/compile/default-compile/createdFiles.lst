@@ -1,0 +1,5 @@
+org/wildfly/quickstarts/microprofile/health/DatabaseConnectionHealthCheck.class
+org/wildfly/quickstarts/microprofile/health/RootResource.class
+org/wildfly/quickstarts/microprofile/health/JaxRsApplication.class
+org/wildfly/quickstarts/microprofile/health/DataHealthCheck.class
+org/wildfly/quickstarts/microprofile/health/SimpleHealthCheck.class

@@ -1,0 +1,4 @@
+org/jboss/as/quickstarts/ee_security/TestAuthenticationMechanism.class
+org/jboss/as/quickstarts/ee_security/SecuredServlet.class
+org/jboss/as/quickstarts/ee_security/SecurityFactory.class
+org/jboss/as/quickstarts/ee_security/ElytronIdentityStore.class

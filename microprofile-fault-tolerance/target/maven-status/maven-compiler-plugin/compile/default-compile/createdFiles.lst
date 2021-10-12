@@ -1,0 +1,5 @@
+org/wildfly/quickstarts/microprofile/faulttolerance/CoffeeResource.class
+org/wildfly/quickstarts/microprofile/faulttolerance/CoffeeRepositoryService.class
+org/wildfly/quickstarts/microprofile/faulttolerance/CoffeeApplication.class
+org/wildfly/quickstarts/microprofile/faulttolerance/RootResource.class
+org/wildfly/quickstarts/microprofile/faulttolerance/Coffee.class

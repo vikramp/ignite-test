@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.5">
+<file name="/Users/vip/IdeaProjects/quickstart8/microprofile-fault-tolerance/src/main/java/org/wildfly/quickstarts/microprofile/faulttolerance/CoffeeResource.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/microprofile-fault-tolerance/src/main/java/org/wildfly/quickstarts/microprofile/faulttolerance/CoffeeApplication.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/microprofile-fault-tolerance/src/main/java/org/wildfly/quickstarts/microprofile/faulttolerance/Coffee.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/microprofile-fault-tolerance/src/main/java/org/wildfly/quickstarts/microprofile/faulttolerance/RootResource.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/microprofile-fault-tolerance/src/main/java/org/wildfly/quickstarts/microprofile/faulttolerance/CoffeeRepositoryService.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/microprofile-fault-tolerance/src/test/java/org/wildfly/quickstarts/microprofile/faulttolerance/MicroProfileFaultToleranceIT.java">
+</file>
+</checkstyle>

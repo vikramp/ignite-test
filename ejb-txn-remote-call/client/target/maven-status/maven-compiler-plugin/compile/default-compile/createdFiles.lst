@@ -1,0 +1,6 @@
+org/jboss/as/quickstarts/ejb/server/RemoteBeanInterface.class
+org/jboss/as/quickstarts/ejb/client/UsersManagement.class
+org/jboss/as/quickstarts/ejb/entity/CallerUser.class
+org/jboss/as/quickstarts/ejb/client/RestEndpoints.class
+org/jboss/as/quickstarts/ejb/client/RemoteLookupHelper.class
+org/jboss/as/quickstarts/ejb/client/RemoteBeanCaller.class

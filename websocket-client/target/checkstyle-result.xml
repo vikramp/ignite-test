@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.5">
+<file name="/Users/vip/IdeaProjects/quickstart8/websocket-client/src/main/java/org/jboss/as/quickstarts/websocket/client/Backend.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/websocket-client/src/main/java/org/jboss/as/quickstarts/websocket/client/ToBackend.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/websocket-client/src/main/java/org/jboss/as/quickstarts/websocket/client/ToBroadcast.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/websocket-client/src/main/java/org/jboss/as/quickstarts/websocket/client/SessionMessage.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/websocket-client/src/main/java/org/jboss/as/quickstarts/websocket/client/ToFrontend.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/websocket-client/src/main/java/org/jboss/as/quickstarts/websocket/client/Frontend.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/websocket-client/src/main/java/org/jboss/as/quickstarts/websocket/client/SessionManager.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/websocket-client/src/main/java/org/jboss/as/quickstarts/websocket/client/ConnectionGate.java">
+</file>
+</checkstyle>

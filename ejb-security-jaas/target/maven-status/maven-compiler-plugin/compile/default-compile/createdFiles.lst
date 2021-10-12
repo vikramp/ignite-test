@@ -1,0 +1,4 @@
+org/jboss/as/quickstarts/ejb_security_jaas/RemoteClient.class
+org/jboss/as/quickstarts/ejb_security_jaas/SecuredEJB.class
+org/jboss/as/quickstarts/ejb_security_jaas/SecuredEJBServlet.class
+org/jboss/as/quickstarts/ejb_security_jaas/SecuredEJBRemote.class

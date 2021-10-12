@@ -1,0 +1,7 @@
+hello/server/transformation/HelloBeanClassFileTransformer.class
+hello/server/ejb/HelloBean.class
+hello/client/HelloClient$1.class
+hello/server/ejb/Hello.class
+hello/server/transformation/HelloClassPool.class
+hello/server/transformation/HelloByteCodeManipulator.class
+hello/client/HelloClient.class

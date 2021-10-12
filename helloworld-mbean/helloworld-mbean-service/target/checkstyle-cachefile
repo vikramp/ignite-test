@@ -1,0 +1,8 @@
+#Fri Oct 08 09:53:36 CEST 2021
+/Users/vip/IdeaProjects/quickstart8/helloworld-mbean/helloworld-mbean-service/src/main/java/org/jboss/as/quickstarts/mbeanhelloworld/mbean/IHelloWorldMXBean.java=1633679084000
+/Users/vip/IdeaProjects/quickstart8/helloworld-mbean/helloworld-mbean-service/src/main/resources/META-INF/jboss-service.xml=1633679084000
+/Users/vip/IdeaProjects/quickstart8/helloworld-mbean/helloworld-mbean-service/src/main/java/org/jboss/as/quickstarts/mbeanhelloworld/mbean/MXPojoHelloWorld.java=1633679084000
+/Users/vip/IdeaProjects/quickstart8/helloworld-mbean/helloworld-mbean-service/src/main/resources/META-INF/beans.xml=1633679084000
+/Users/vip/IdeaProjects/quickstart8/helloworld-mbean/helloworld-mbean-service/src/test/java/org/jboss/as/quickstarts/mbeanhelloworld/mbean/JMXPojoHelloWorldIT.java=1633679084000
+module-resource*?\:/wildfly-checkstyle/suppressions.xml=DD3FD5987C62C3034A4613F83C42B24683BCFC2E
+configuration*?=41B4F0BB22F47B3FD09DA2E40D9DE8B14E08D022

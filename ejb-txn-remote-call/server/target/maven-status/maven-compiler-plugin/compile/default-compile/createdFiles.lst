@@ -1,0 +1,10 @@
+org/jboss/as/quickstarts/ejb/server/RemoteBeanInterface.class
+org/jboss/as/quickstarts/ejb/server/StatelessBean.class
+org/jboss/as/quickstarts/ejb/mock/MockXAResource$1.class
+org/jboss/as/quickstarts/ejb/server/RestEndpoints.class
+org/jboss/as/quickstarts/ejb/server/InfoUtils.class
+org/jboss/as/quickstarts/ejb/mock/MockXAResource$MockXAResourceRecoveryHelper.class
+org/jboss/as/quickstarts/ejb/mock/MockXAResource.class
+org/jboss/as/quickstarts/ejb/mock/MockXAResource$TestAction.class
+org/jboss/as/quickstarts/ejb/server/StatefulBean.class
+org/jboss/as/quickstarts/ejb/entity/CalleeUser.class

@@ -1,0 +1,5 @@
+/Users/vip/IdeaProjects/quickstart8/spring-kitchensink-basic/src/main/java/org/jboss/as/quickstarts/kitchensink/spring/basic/controller/MemberController.java
+/Users/vip/IdeaProjects/quickstart8/spring-kitchensink-basic/src/main/java/org/jboss/as/quickstarts/kitchensink/spring/basic/data/MemberDaoImpl.java
+/Users/vip/IdeaProjects/quickstart8/spring-kitchensink-basic/src/main/java/org/jboss/as/quickstarts/kitchensink/spring/basic/model/Member.java
+/Users/vip/IdeaProjects/quickstart8/spring-kitchensink-basic/src/main/java/org/jboss/as/quickstarts/kitchensink/spring/basic/data/MemberDao.java
+/Users/vip/IdeaProjects/quickstart8/spring-kitchensink-basic/src/main/java/org/jboss/as/quickstarts/kitchensink/spring/basic/controller/MemberRestController.java

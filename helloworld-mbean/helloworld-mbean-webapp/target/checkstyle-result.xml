@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.5">
+<file name="/Users/vip/IdeaProjects/quickstart8/helloworld-mbean/helloworld-mbean-webapp/src/main/java/org/jboss/as/quickstarts/mbeanhelloworld/mbean/MXPojoHelloWorld.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/helloworld-mbean/helloworld-mbean-webapp/src/main/java/org/jboss/as/quickstarts/mbeanhelloworld/mbean/MXComponentHelloWorld.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/helloworld-mbean/helloworld-mbean-webapp/src/main/java/org/jboss/as/quickstarts/mbeanhelloworld/mbean/IAnnotatedHelloWorldMBean.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/helloworld-mbean/helloworld-mbean-webapp/src/main/java/org/jboss/as/quickstarts/mbeanhelloworld/mbean/AbstractComponentMBean.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/helloworld-mbean/helloworld-mbean-webapp/src/main/java/org/jboss/as/quickstarts/mbeanhelloworld/mbean/IHelloWorldMXBean.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/helloworld-mbean/helloworld-mbean-webapp/src/main/java/org/jboss/as/quickstarts/mbeanhelloworld/mbean/AnnotatedComponentHelloWorld.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/helloworld-mbean/helloworld-mbean-webapp/src/main/java/org/jboss/as/quickstarts/mbeanhelloworld/util/CDIExtension.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/helloworld-mbean/helloworld-mbean-webapp/src/main/java/org/jboss/as/quickstarts/mbeanhelloworld/service/HelloService.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/helloworld-mbean/helloworld-mbean-webapp/src/test/java/org/jboss/as/quickstarts/mbeanhelloworld/mbean/MXPojoHelloWorldIT.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/helloworld-mbean/helloworld-mbean-webapp/src/test/java/org/jboss/as/quickstarts/mbeanhelloworld/mbean/MXComponentHelloWorldIT.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/helloworld-mbean/helloworld-mbean-webapp/src/test/java/org/jboss/as/quickstarts/mbeanhelloworld/mbean/AnnotatedComponentHelloWorldIT.java">
+</file>
+</checkstyle>

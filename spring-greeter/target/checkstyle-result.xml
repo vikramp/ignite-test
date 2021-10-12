@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.5">
+<file name="/Users/vip/IdeaProjects/quickstart8/spring-greeter/src/main/java/org/jboss/spring/quickstarts/greeter/greeter_spring/web/GreetController.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/spring-greeter/src/main/java/org/jboss/spring/quickstarts/greeter/greeter_spring/web/CreateController.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/spring-greeter/src/main/java/org/jboss/spring/quickstarts/greeter/greeter_spring/domain/UserDao.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/spring-greeter/src/main/java/org/jboss/spring/quickstarts/greeter/greeter_spring/domain/User.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/spring-greeter/src/main/java/org/jboss/spring/quickstarts/greeter/greeter_spring/domain/UserDaoImpl.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/spring-greeter/src/main/resources/META-INF/persistence.xml">
+</file>
+</checkstyle>

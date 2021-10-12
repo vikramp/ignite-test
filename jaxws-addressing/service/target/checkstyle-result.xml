@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.5">
+<file name="/Users/vip/IdeaProjects/quickstart8/jaxws-addressing/service/src/main/java/org/jboss/quickstarts/ws/jaxws/samples/wsa/ServiceIface.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/jaxws-addressing/service/src/main/java/org/jboss/quickstarts/ws/jaxws/samples/wsa/ServiceImpl.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/jaxws-addressing/service/src/main/resources/log4j.properties">
+</file>
+</checkstyle>

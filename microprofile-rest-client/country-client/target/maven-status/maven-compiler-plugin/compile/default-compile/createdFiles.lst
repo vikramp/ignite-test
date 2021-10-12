@@ -1,0 +1,6 @@
+org/wildfly/quickstarts/microprofile/rest/client/CountriesServiceClient.class
+org/wildfly/quickstarts/microprofile/rest/client/JaxRsApplication.class
+org/wildfly/quickstarts/microprofile/rest/client/RootResource.class
+org/wildfly/quickstarts/microprofile/rest/client/model/Country.class
+org/wildfly/quickstarts/microprofile/rest/client/CountriesResource.class
+org/wildfly/quickstarts/microprofile/rest/client/NotFoundResponseExceptionMapper.class

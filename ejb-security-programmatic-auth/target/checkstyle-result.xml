@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.5">
+<file name="/Users/vip/IdeaProjects/quickstart8/ejb-security-programmatic-auth/src/main/java/org/jboss/as/quickstarts/ejb_security_programmatic_auth/RemoteClient.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/ejb-security-programmatic-auth/src/main/java/org/jboss/as/quickstarts/ejb_security_programmatic_auth/SecuredEJBRemote.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/ejb-security-programmatic-auth/src/main/java/org/jboss/as/quickstarts/ejb_security_programmatic_auth/SecuredEJB.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/ejb-security-programmatic-auth/src/main/resources/wildfly-config.xml">
+</file>
+</checkstyle>

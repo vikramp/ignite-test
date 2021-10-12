@@ -1,0 +1,6 @@
+/Users/vip/IdeaProjects/quickstart8/microprofile-rest-client/country-client/src/main/java/org/wildfly/quickstarts/microprofile/rest/client/JaxRsApplication.java
+/Users/vip/IdeaProjects/quickstart8/microprofile-rest-client/country-client/src/main/java/org/wildfly/quickstarts/microprofile/rest/client/CountriesServiceClient.java
+/Users/vip/IdeaProjects/quickstart8/microprofile-rest-client/country-client/src/main/java/org/wildfly/quickstarts/microprofile/rest/client/CountriesResource.java
+/Users/vip/IdeaProjects/quickstart8/microprofile-rest-client/country-client/src/main/java/org/wildfly/quickstarts/microprofile/rest/client/model/Country.java
+/Users/vip/IdeaProjects/quickstart8/microprofile-rest-client/country-client/src/main/java/org/wildfly/quickstarts/microprofile/rest/client/RootResource.java
+/Users/vip/IdeaProjects/quickstart8/microprofile-rest-client/country-client/src/main/java/org/wildfly/quickstarts/microprofile/rest/client/NotFoundResponseExceptionMapper.java

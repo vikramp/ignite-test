@@ -1,0 +1,13 @@
+org/jboss/as/quickstarts/websocket/client/SessionMessage.class
+org/jboss/as/quickstarts/websocket/client/Backend$SessionMessageDecoder.class
+org/jboss/as/quickstarts/websocket/client/ToBroadcast.class
+org/jboss/as/quickstarts/websocket/client/ConnectionGate.class
+org/jboss/as/quickstarts/websocket/client/ToBackend.class
+org/jboss/as/quickstarts/websocket/client/Backend$SessionMessageEncoder.class
+org/jboss/as/quickstarts/websocket/client/Backend.class
+org/jboss/as/quickstarts/websocket/client/Frontend$FrontendMessageHandler.class
+org/jboss/as/quickstarts/websocket/client/SessionManager.class
+org/jboss/as/quickstarts/websocket/client/Frontend.class
+org/jboss/as/quickstarts/websocket/client/Frontend$1.class
+org/jboss/as/quickstarts/websocket/client/ToFrontend.class
+org/jboss/as/quickstarts/websocket/client/ConnectionGate$ReclosableLatch.class

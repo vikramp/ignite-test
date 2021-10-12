@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.5">
+<file name="/Users/vip/IdeaProjects/quickstart8/microprofile-openapi/src/main/java/org/wildfly/quickstart/microprofile/openapi/FruitResource.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/microprofile-openapi/src/main/java/org/wildfly/quickstart/microprofile/openapi/InventoryApplication.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/microprofile-openapi/src/main/java/org/wildfly/quickstart/microprofile/openapi/RootResource.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/microprofile-openapi/src/main/java/org/wildfly/quickstart/microprofile/openapi/Fruit.java">
+</file>
+</checkstyle>

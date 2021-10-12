@@ -1,0 +1,4 @@
+org/jboss/as/quickstarts/kitchensink_ear/rest/JaxRsActivator.class
+org/jboss/as/quickstarts/kitchensink_ear/util/WebResources.class
+org/jboss/as/quickstarts/kitchensink_ear/rest/MemberResourceRESTService.class
+org/jboss/as/quickstarts/kitchensink_ear/controller/MemberController.class

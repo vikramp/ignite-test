@@ -1,0 +1,10 @@
+org/wildfly/quickstarts/microprofile/config/custom/CustomPropertiesFileProvider$1.class
+org/wildfly/quickstarts/microprofile/config/ConverterResource.class
+org/wildfly/quickstarts/microprofile/config/custom/CustomConfigSource.class
+org/wildfly/quickstarts/microprofile/config/custom/CustomPropertiesFileProvider.class
+org/wildfly/quickstarts/microprofile/config/CustomConfigResource.class
+org/wildfly/quickstarts/microprofile/config/converter/type/MicroProfileCustomValue.class
+org/wildfly/quickstarts/microprofile/config/ConfigResource.class
+org/wildfly/quickstarts/microprofile/config/converter/MicroProfileCustomValueConverter.class
+org/wildfly/quickstarts/microprofile/config/RootResource.class
+org/wildfly/quickstarts/microprofile/config/JaxRsApplication.class

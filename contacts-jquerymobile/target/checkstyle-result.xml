@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.5">
+<file name="/Users/vip/IdeaProjects/quickstart8/contacts-jquerymobile/src/main/java/org/jboss/quickstarts/contact/JaxRsActivator.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/contacts-jquerymobile/src/main/java/org/jboss/quickstarts/contact/ContactValidator.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/contacts-jquerymobile/src/main/java/org/jboss/quickstarts/contact/ContactService.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/contacts-jquerymobile/src/main/java/org/jboss/quickstarts/contact/Contact.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/contacts-jquerymobile/src/main/java/org/jboss/quickstarts/contact/ContactRepository.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/contacts-jquerymobile/src/main/java/org/jboss/quickstarts/contact/ContactRESTService.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/contacts-jquerymobile/src/main/java/org/jboss/quickstarts/util/Resources.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/contacts-jquerymobile/src/main/java/org/jboss/quickstarts/util/JSONPRequestFilter.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/contacts-jquerymobile/src/test/java/org/jboss/quickstarts/contact/test/ContactRegistrationIT.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/contacts-jquerymobile/src/main/resources/META-INF/persistence.xml">
+</file>
+</checkstyle>

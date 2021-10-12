@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.5">
+<file name="/Users/vip/IdeaProjects/quickstart8/thread-racing/src/main/java/org/jboss/as/quickstarts/threadracing/legends/MichaelThrumacher.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/thread-racing/src/main/java/org/jboss/as/quickstarts/threadracing/legends/ValentinoThrossi.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/thread-racing/src/main/java/org/jboss/as/quickstarts/threadracing/legends/SebastienThroeb.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/thread-racing/src/main/java/org/jboss/as/quickstarts/threadracing/legends/JimmieThronson.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/thread-racing/src/main/java/org/jboss/as/quickstarts/threadracing/Race.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/thread-racing/src/main/java/org/jboss/as/quickstarts/threadracing/EnvironmentProperties.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/thread-racing/src/main/java/org/jboss/as/quickstarts/threadracing/results/ChampionshipStandings.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/thread-racing/src/main/java/org/jboss/as/quickstarts/threadracing/results/RaceResults.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/thread-racing/src/main/java/org/jboss/as/quickstarts/threadracing/results/RaceResult.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/thread-racing/src/main/java/org/jboss/as/quickstarts/threadracing/RaceBroadcaster.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/thread-racing/src/main/java/org/jboss/as/quickstarts/threadracing/stage/concurrency/EEConcurrencyRaceStage.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/thread-racing/src/main/java/org/jboss/as/quickstarts/threadracing/stage/json/JSONRaceStage.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/thread-racing/src/main/java/org/jboss/as/quickstarts/threadracing/stage/RaceStage.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/thread-racing/src/main/java/org/jboss/as/quickstarts/threadracing/stage/batch/BatchRaceStage.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/thread-racing/src/main/java/org/jboss/as/quickstarts/threadracing/stage/batch/BatchRaceStageItemProcessor.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/thread-racing/src/main/java/org/jboss/as/quickstarts/threadracing/stage/batch/BatchRaceStageItemWriter.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/thread-racing/src/main/java/org/jboss/as/quickstarts/threadracing/stage/batch/BatchRaceStageItemReader.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/thread-racing/src/main/java/org/jboss/as/quickstarts/threadracing/stage/jms/JMSRaceStage.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/thread-racing/src/main/java/org/jboss/as/quickstarts/threadracing/stage/jms/JMSRaceStageMessageListener.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/thread-racing/src/main/java/org/jboss/as/quickstarts/threadracing/stage/jaxrs/JAXRSRaceStage.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/thread-racing/src/main/java/org/jboss/as/quickstarts/threadracing/stage/jaxrs/BoxService.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/thread-racing/src/main/java/org/jboss/as/quickstarts/threadracing/stage/jaxrs/BoxApplication.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/thread-racing/src/main/java/org/jboss/as/quickstarts/threadracing/WebSocketRace.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/thread-racing/src/main/java/org/jboss/as/quickstarts/threadracing/WebSocketRaceBroadcaster.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/thread-racing/src/main/java/org/jboss/as/quickstarts/threadracing/Racer.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/thread-racing/src/main/resources/META-INF/persistence.xml">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/thread-racing/src/main/resources/META-INF/batch-jobs/race.xml">
+</file>
+</checkstyle>

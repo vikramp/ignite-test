@@ -1,0 +1,7 @@
+#Fri Oct 08 09:51:28 CEST 2021
+/Users/vip/IdeaProjects/quickstart8/ejb-security-programmatic-auth/src/main/java/org/jboss/as/quickstarts/ejb_security_programmatic_auth/SecuredEJB.java=1633679084000
+/Users/vip/IdeaProjects/quickstart8/ejb-security-programmatic-auth/src/main/java/org/jboss/as/quickstarts/ejb_security_programmatic_auth/SecuredEJBRemote.java=1633679084000
+/Users/vip/IdeaProjects/quickstart8/ejb-security-programmatic-auth/src/main/java/org/jboss/as/quickstarts/ejb_security_programmatic_auth/RemoteClient.java=1633679084000
+/Users/vip/IdeaProjects/quickstart8/ejb-security-programmatic-auth/src/main/resources/wildfly-config.xml=1633679084000
+module-resource*?\:/wildfly-checkstyle/suppressions.xml=DD3FD5987C62C3034A4613F83C42B24683BCFC2E
+configuration*?=E0A0DCC8EAF0A8A9EEF3EA38E30869543B5EA5F9

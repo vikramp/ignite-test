@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.5">
+<file name="/Users/vip/IdeaProjects/quickstart8/helloworld-classfiletransformer/src/main/java/hello/server/transformation/HelloByteCodeManipulator.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/helloworld-classfiletransformer/src/main/java/hello/server/transformation/HelloBeanClassFileTransformer.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/helloworld-classfiletransformer/src/main/java/hello/server/transformation/HelloClassPool.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/helloworld-classfiletransformer/src/main/java/hello/server/ejb/Hello.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/helloworld-classfiletransformer/src/main/java/hello/server/ejb/HelloBean.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/helloworld-classfiletransformer/src/main/java/hello/client/HelloClient.java">
+</file>
+</checkstyle>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.5">
+<file name="/Users/vip/IdeaProjects/quickstart8/spring-kitchensink-springmvctest/src/main/java/org/jboss/as/quickstarts/kitchensink/spring/springmvctest/controller/MemberRestController.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/spring-kitchensink-springmvctest/src/main/java/org/jboss/as/quickstarts/kitchensink/spring/springmvctest/controller/MemberController.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/spring-kitchensink-springmvctest/src/main/java/org/jboss/as/quickstarts/kitchensink/spring/springmvctest/model/Member.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/spring-kitchensink-springmvctest/src/main/java/org/jboss/as/quickstarts/kitchensink/spring/springmvctest/data/MemberDao.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/spring-kitchensink-springmvctest/src/main/java/org/jboss/as/quickstarts/kitchensink/spring/springmvctest/data/MemberDaoImpl.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/spring-kitchensink-springmvctest/src/test/java/org/jboss/as/quickstarts/kitchensink/spring/springmvctest/test/MemberDaoTest.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/spring-kitchensink-springmvctest/src/test/java/org/jboss/as/quickstarts/kitchensink/spring/springmvctest/test/MemberMockMVCTest.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/spring-kitchensink-springmvctest/src/main/resources/META-INF/persistence.xml">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/spring-kitchensink-springmvctest/src/main/resources/META-INF/spring/applicationContext.xml">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/spring-kitchensink-springmvctest/src/main/resources/META-INF/spring/infrastructure.xml">
+</file>
+</checkstyle>

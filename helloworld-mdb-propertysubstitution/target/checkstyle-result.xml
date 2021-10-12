@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.5">
+<file name="/Users/vip/IdeaProjects/quickstart8/helloworld-mdb-propertysubstitution/src/main/java/org/jboss/as/quickstarts/servlet/HelloWorldMDBServletClient.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/helloworld-mdb-propertysubstitution/src/main/java/org/jboss/as/quickstarts/mdb/HelloWorldTopicMDB.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/helloworld-mdb-propertysubstitution/src/main/java/org/jboss/as/quickstarts/mdb/HelloWorldQueueMDB.java">
+</file>
+</checkstyle>

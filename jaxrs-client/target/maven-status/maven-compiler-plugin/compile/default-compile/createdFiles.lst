@@ -1,0 +1,3 @@
+org/jboss/as/quickstarts/jaxrsclient/rest/JaxRsActivator.class
+org/jboss/as/quickstarts/jaxrsclient/model/Contact.class
+org/jboss/as/quickstarts/jaxrsclient/rest/ContactResourceRESTService.class

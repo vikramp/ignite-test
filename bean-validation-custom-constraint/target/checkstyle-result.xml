@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.5">
+<file name="/Users/vip/IdeaProjects/quickstart8/bean-validation-custom-constraint/src/main/java/org/jboss/as/quickstarts/bean_validation_custom_constraint/AddressValidator.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/bean-validation-custom-constraint/src/main/java/org/jboss/as/quickstarts/bean_validation_custom_constraint/Address.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/bean-validation-custom-constraint/src/main/java/org/jboss/as/quickstarts/bean_validation_custom_constraint/Person.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/bean-validation-custom-constraint/src/main/java/org/jboss/as/quickstarts/bean_validation_custom_constraint/PersonAddress.java">
+</file>
+<file name="/Users/vip/IdeaProjects/quickstart8/bean-validation-custom-constraint/src/test/java/org/jboss/as/quickstarts/bean_validation_custom_constraint/MyPersonIT.java">
+</file>
+</checkstyle>

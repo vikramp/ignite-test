@@ -1,0 +1,3 @@
+org/wildfly/quickstarts/microprofile/metrics/JaxRsApplication.class
+org/wildfly/quickstarts/microprofile/metrics/PrimeNumberChecker.class
+org/wildfly/quickstarts/microprofile/metrics/RootResource.class

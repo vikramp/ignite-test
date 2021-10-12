@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application xmlns="http://xmlns.jcp.org/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/application_7.xsd" version="7">
+  <description>This project demonstrates identity propagation between different security domains</description>
+  <display-name>security-domain-to-domain-ear</display-name>
+  <module>
+    <web>
+      <web-uri>security-domain-to-domain-web.war</web-uri>
+      <context-root>/security-domain-to-domain</context-root>
+    </web>
+  </module>
+  <module>
+    <ejb>security-domain-to-domain-ejb.jar</ejb>
+  </module>
+  <library-directory>lib</library-directory>
+</application>

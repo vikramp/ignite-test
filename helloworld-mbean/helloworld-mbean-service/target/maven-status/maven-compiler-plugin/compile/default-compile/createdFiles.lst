@@ -1,0 +1,2 @@
+org/jboss/as/quickstarts/mbeanhelloworld/mbean/MXPojoHelloWorld.class
+org/jboss/as/quickstarts/mbeanhelloworld/mbean/IHelloWorldMXBean.class

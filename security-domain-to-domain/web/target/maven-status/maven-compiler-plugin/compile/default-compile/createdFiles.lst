@@ -1,0 +1,2 @@
+org/wildfly/quickstarts/security_domain_to_domain/web/SecuredServlet.class
+org/wildfly/quickstarts/security_domain_to_domain/web/IdentityFilter.class

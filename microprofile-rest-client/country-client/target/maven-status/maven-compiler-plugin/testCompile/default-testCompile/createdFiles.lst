@@ -1,0 +1,2 @@
+org/wildfly/quickstarts/microprofile/rest/client/MicroProfileRESTClientIT.class
+org/wildfly/quickstarts/microprofile/rest/client/api/CountryProviderResource.class
