@@ -52,19 +52,25 @@ public class CustomerManagerEJB {
     @Inject
     private OnboardingService onboardingService;
 
-    @TransactionAttribute(TransactionAttributeType.REQUIRED)
-    public void createCustomer(String name) throws RemoteException, JMSException {
 
+
+    @TransactionAttribute(TransactionAttributeType.REQUIRES_NEW)
+    public void createCustomer(String name) throws RemoteException, JMSException {
         logger.warning("Request to add Customer with name :" + name + " : arrived");
+        // see if cache is initialized
+        CacheInitializer.onboardingCache.get(name);
+        onboardingService.initiateOnboarding(name);
+
         Customer c1 = new Customer();
         c1.setName(name);
         entityManager.persist(c1);
-
+        entityManager.flush();
+        onboardingService.markOnboaringWIP(name);
       //  invoiceManager.createInvoice(name);
-        onboardingService.initiateOnboarding(name);
+
         logger.warning("Request to add Customer with name :" + name + " : processed");
 
-    }
+     }
 
     /**
      * List all the customers.

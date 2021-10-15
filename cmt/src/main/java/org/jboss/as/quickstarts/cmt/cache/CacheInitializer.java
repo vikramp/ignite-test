@@ -9,10 +9,10 @@ import org.apache.ignite.cache.CacheMode;
 import org.apache.ignite.cache.CacheWriteSynchronizationMode;
 import org.apache.ignite.cache.eviction.lru.LruEvictionPolicyFactory;
 import org.apache.ignite.cache.jta.jndi.CacheJndiTmFactory;
+import org.apache.ignite.cache.jta.jndi.CacheJndiTmLookup;
 import org.apache.ignite.cache.store.jdbc.JdbcType;
 import org.apache.ignite.cache.store.jdbc.JdbcTypeField;
 import org.apache.ignite.cache.store.jdbc.dialect.H2Dialect;
-import org.apache.ignite.cluster.ClusterState;
 import org.apache.ignite.configuration.CacheConfiguration;
 import org.apache.ignite.configuration.NearCacheConfiguration;
 import org.apache.ignite.configuration.IgniteConfiguration;
@@ -31,6 +31,7 @@ import javax.annotation.PostConstruct;
 import javax.ejb.Singleton;
 import javax.ejb.Startup;
 import javax.inject.Inject;
+import javax.transaction.TransactionManager;
 import java.io.Serializable;
 import java.sql.Types;
 import java.util.Arrays;
@@ -62,7 +63,7 @@ public class CacheInitializer implements Serializable {
 
     DataStorageConfiguration dsStorageConfigureation = new DataStorageConfiguration();
     DataRegionConfiguration defaultdsRegionConfig = new DataRegionConfiguration();
-    defaultdsRegionConfig = defaultdsRegionConfig.setPersistenceEnabled(Boolean.TRUE).setMetricsEnabled(Boolean.TRUE);
+    defaultdsRegionConfig = defaultdsRegionConfig.setPersistenceEnabled(Boolean.FALSE).setMetricsEnabled(Boolean.TRUE);
     DataRegionConfiguration masterRegionConfiguration = new DataRegionConfiguration().setName("MasterDataRegion").setMetricsEnabled(Boolean.TRUE);
     dsStorageConfigureation.setWalPath("node-data/wal").setWalArchivePath("node-data/archivepath").setDefaultDataRegionConfiguration(defaultdsRegionConfig)
             .setDataRegionConfigurations(masterRegionConfiguration);
@@ -74,7 +75,6 @@ public class CacheInitializer implements Serializable {
 
     CacheConfiguration<String, OnboardingProcess> onboardingProcessCacheConfiguration = new CacheConfiguration<String,OnboardingProcess>();
 
-    onboardingProcessCacheStoreFactory.setDialect(new H2Dialect());
 
     JdbcType onboardingProcessEntity = new JdbcType();
     onboardingProcessEntity.setCacheName(CacheInitializer.ONBOARDING_CACHE);
@@ -86,10 +86,10 @@ public class CacheInitializer implements Serializable {
     onboardingProcessEntity.setKeyFields(new JdbcTypeField(Types.VARCHAR, "CUSTOMERNAME", String.class, "customerName"));
     onboardingProcessEntity.setValueFields(new JdbcTypeField(java.sql.Types.VARCHAR, "STATUS", String.class, "status"));
 
-    onboardingProcessCacheStoreFactory.setTypes(onboardingProcessEntity);
 
 
-    onboardingProcessCacheConfiguration = onboardingProcessCacheConfiguration.setDataRegionName("MasterDataRegion")
+    onboardingProcessCacheConfiguration = onboardingProcessCacheConfiguration
+            .setDataRegionName("MasterDataRegion")
             .setName(CacheInitializer.ONBOARDING_CACHE)
             .setCacheMode(CacheMode.REPLICATED)
             .setAtomicityMode(CacheAtomicityMode.TRANSACTIONAL)
@@ -98,25 +98,34 @@ public class CacheInitializer implements Serializable {
             .setNearConfiguration(nearCacheConfiguration)
             .setWriteSynchronizationMode(CacheWriteSynchronizationMode.FULL_SYNC)
             .setCacheStoreFactory(onboardingProcessCacheStoreFactory)
-            .setCacheStoreSessionListenerFactories(listenerFactory)
-            .setWriteBehindEnabled(Boolean.FALSE);
+            .setWriteBehindEnabled(Boolean.FALSE)
+           // .setCacheStoreSessionListenerFactories(listenerFactory)
+            .setTransactionManagerLookupClassName(CacheJndiTmLookup.class.getCanonicalName());
 
     IgniteConfiguration cfg = new IgniteConfiguration().setPeerClassLoadingEnabled(true).setClientMode(Boolean.FALSE)
             .setIgniteHome("/Users/vip/workspace/local-ignite-home")
             .setDeploymentMode(DeploymentMode.CONTINUOUS)
             .setMetricsLogFrequency(60*10*1000).setCommunicationSpi(tcpCommunicationSpi).setDiscoverySpi(spi)
             .setDataStorageConfiguration(dsStorageConfigureation)
-            .setAuthenticationEnabled(Boolean.TRUE)
-            .setClusterStateOnStart(ClusterState.ACTIVE)
+          //  .setAuthenticationEnabled(Boolean.TRUE)
             .setClientMode(Boolean.FALSE)
-            .setTransactionConfiguration(new TransactionConfiguration().setUseJtaSynchronization(Boolean.TRUE).setTxManagerFactory(new CacheJndiTmFactory("java:jboss/TransactionManager")).setDefaultTxConcurrency(TransactionConcurrency.OPTIMISTIC).setDefaultTxIsolation(TransactionIsolation.READ_COMMITTED))
-            .setCacheConfiguration(onboardingProcessCacheConfiguration);
+            .setTransactionConfiguration(
+                    new TransactionConfiguration()
+                            //.setUseJtaSynchronization(Boolean.TRUE)
+                            .setTxManagerFactory(new CacheJndiTmFactory("java:jboss/TransactionManager"))
+                            .setDefaultTxConcurrency(TransactionConcurrency.OPTIMISTIC)
+                            .setDefaultTxIsolation(TransactionIsolation.READ_COMMITTED))
+            .setCacheConfiguration(onboardingProcessCacheConfiguration)
+            .setCacheStoreSessionListenerFactories(listenerFactory);
+
+
+
 
 
 
     Ignite ignite = Ignition.getOrStart(cfg);
     logger.info("Initialized Ignite Cache, triggering acivation the cluster");
-    ignite.cluster().state(ClusterState.ACTIVE);
+    ignite.active();
     this.igniteHandle = ignite;
     logger.info("Cluster activated");
     IgniteCache<String,OnboardingProcess> onboardingCache = ignite.getOrCreateCache(CacheInitializer.ONBOARDING_CACHE);

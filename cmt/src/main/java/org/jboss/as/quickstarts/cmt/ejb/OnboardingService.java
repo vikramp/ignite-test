@@ -29,7 +29,13 @@ public class OnboardingService {
         if(cacheInitializer.onboardingCache == null)
             throw new RuntimeException("Onboarding cache handle not set properly");
 
-        cacheInitializer.onboardingCache.put(name,onboardingProcess);
+        cacheInitializer.onboardingCache.getAndPut(name,onboardingProcess);
     }
 
+    @TransactionAttribute(TransactionAttributeType.REQUIRED)
+    public void markOnboaringWIP(String name){
+        OnboardingProcess onboardingProcess = CacheInitializer.onboardingCache.get(name);
+        onboardingProcess.setStatus(OnboardingState.WIP);
+        CacheInitializer.onboardingCache.getAndPut(name,onboardingProcess);
+    }
 }
